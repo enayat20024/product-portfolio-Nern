@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a4b86c69.css",
+    "main.js": "/static/js/main.7c16529c.js",
+    "static/media/Ismail.png": "/static/media/Ismail.1a7a7a4c5165a914f242.png",
+    "static/media/Ismail_CV.pdf": "/static/media/Ismail_CV.5e026c2d77e48c30cf34.pdf",
+    "static/media/work4.jpg": "/static/media/work4.8d4efebc593989858918.jpg",
+    "static/media/work1.jpg": "/static/media/work1.e8038eba13b5f2de642c.jpg",
+    "static/media/testimonial1.jpg": "/static/media/testimonial1.1f370316adfffae5653f.jpg",
+    "static/media/testimonial3.jpg": "/static/media/testimonial3.8241566aa320f30e4296.jpg",
+    "static/media/work3.jpg": "/static/media/work3.a080c0e4386807c16d55.jpg",
+    "static/media/work2.jpg": "/static/media/work2.050ab277a81d0bb2d623.jpg",
+    "static/media/work5.jpg": "/static/media/work5.206b053fde85525cdaa9.jpg",
+    "index.html": "/index.html",
+    "main.a4b86c69.css.map": "/static/css/main.a4b86c69.css.map",
+    "main.7c16529c.js.map": "/static/js/main.7c16529c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a4b86c69.css",
+    "static/js/main.7c16529c.js"
+  ]
+}
